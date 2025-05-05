@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello there 👋
+- 🤖 Software Developer with AI/ML and Data Science expertise.
+- 🦾 Proficient in Python.
+- 💬 Currently working on: ...
 <!--
 **jack-data/jack-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
